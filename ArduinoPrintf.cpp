@@ -22,7 +22,7 @@
 #include <Arduino.h>
 #include "DuePrintf.h"
 
-void printf(const char * fmt, ...) {
+void arduprintf(const char * fmt, ...) {
   
   va_list ap;       
 
