@@ -20,7 +20,7 @@
 #include <stdarg.h>
 #include <stdio.h>
 #include <Arduino.h>
-#include "DuePrintf.h"
+#include "ArduinoPrintf.h"
 
 void arduprintf(const char * fmt, ...) {
   
