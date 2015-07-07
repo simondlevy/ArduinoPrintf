@@ -17,4 +17,4 @@
  * along with this code.  If not, see <http:#www.gnu.org/licenses/>.
  */
  
- void printf(const char * fmt, ...);
+ void arduprintf(const char * fmt, ...);
